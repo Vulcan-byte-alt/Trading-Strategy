@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-QUANTUM MOMENTUM BACKTEST RUNNER - Championship Edition
+QUANTUM MOMENTUM BACKTEST RUNNER - Best Edition
 ========================================================
 
 Comprehensive backtesting framework for the Quantum Momentum strategy.
@@ -25,7 +25,7 @@ Output:
     - Console: Real-time trade log and summary statistics
     - File: backtest_report.md with full analysis
 
-Author: Championship Submission
+Author: Suhail Siyad
 Date: November 2025
 """
 
