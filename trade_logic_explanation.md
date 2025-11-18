@@ -345,8 +345,8 @@ The approach is simple, explainable, and robust - not overfitted to historical d
 
 ---
 
-**Author:** Suhail Siyad
-**GitHub:** https://github.com/Vulcan-byte-alt 
+**Author:** Suhail Siyad  
+**GitHub:** https://github.com/Vulcan-byte-alt   
 **Date:** November 18, 2025  
 **Performance:** +27.23% (Jan-Jun 2024)  
 **Status:** Contest Submission
