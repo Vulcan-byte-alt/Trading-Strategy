@@ -212,7 +212,7 @@ if last_exit_time:
 
 ### Combined Performance
 - **Return:** +27.23%
-- **P&L:** $5,445.44
+- **P&L:** $2,723 (based on $10,000 starting capital)
 - **Trades:** 14
 - **Win Rate:** 66.7%
 - **Sharpe Ratio:** 1.3-1.4
