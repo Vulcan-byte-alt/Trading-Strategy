@@ -6,7 +6,7 @@
 
 **Combined Performance:**
 - **Total Return:** +27.23%
-- **Total P&L:** $5,445.44
+- **Combined P&L:** $2,723 (based on $10,000 starting capital)
 - **Sharpe Ratio:** 1.27-1.41
 - **Maximum Drawdown:** 19.68%
 - **Total Trades:** 14
@@ -149,7 +149,7 @@ The strategy uses asymmetric parameters optimized independently for Bitcoin and 
 | Metric | BTC-USD | ETH-USD | Combined |
 |--------|---------|---------|----------|
 | **Return** | +23.94% | +30.51% | **+27.23%** |
-| **P&L** | +$2,394.49 | +$3,050.95 | **+$5,445.44** |
+| **P&L** | +$2,394.49 | +$3,050.95 | **+$2,723** |
 | **Sharpe Ratio** | 1.27 | 1.41 | **1.27-1.41** |
 | **Max Drawdown** | 16.12% | 19.68% | **19.68%** |
 | **Trades** | 5 | 9 | **14** |
