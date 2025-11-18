@@ -4,7 +4,7 @@ QUANTUM MOMENTUM STRATEGY - Contest Submission
 ==============================================
 
 Strategy Name: Ultimate Asymmetric
-Author: [Your Name]
+Author: Suhail Siyad
 Return: +27.23%
 Trades: 14
 Win Rate: 66.7%
