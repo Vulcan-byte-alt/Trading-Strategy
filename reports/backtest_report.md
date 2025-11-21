@@ -134,7 +134,7 @@ The strategy uses asymmetric parameters optimized independently for Bitcoin and 
 ✓ **Data Source:** Yahoo Finance (yfinance library)
 ✓ **Data Interval:** Hourly (1-hour candles)
 ✓ **Contest Period:** January 1 - June 30, 2024 (6 months)
-✓ **Starting Balance:** $10,000 per asset ($20,000 total)
+✓ **Starting Balance:** $10,000 TOTAL (single pool, switches between BTC/ETH)
 ✓ **Max Drawdown:** 19.68% (< 50% limit) ✅
 ✓ **Minimum Trades:** 14 trades (≥ 10 required) ✅
 ✓ **Position Sizing:** 55% max enforced ✅

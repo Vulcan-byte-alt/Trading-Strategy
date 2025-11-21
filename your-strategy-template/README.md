@@ -19,8 +19,8 @@
 | **Profit Factor** | 7.05-11.10 |
 | **Sharpe Ratio** | 1.27-1.41 |
 | **Maximum Drawdown** | 19.68% |
-| **Starting Capital** | $20,000 ($10k per asset) |
-| **Final Value** | $25,445.44 |
+| **Starting Capital** | $10,000 (single pool switching between assets) |
+| **Final Value** | $12,723.00 |
 
 ### Per-Asset Performance
 
@@ -263,7 +263,7 @@ Testing different lookback periods:
 ✅ **Period:** Jan 1 - Jun 30, 2024
 ✅ **Assets:** BTC-USD, ETH-USD
 ✅ **Position Size:** 55% (max enforced)
-✅ **Starting Capital:** $10,000 per asset
+✅ **Starting Capital:** $10,000 TOTAL (single pool)
 ✅ **Minimum Trades:** 14 (exceeds 10 minimum)
 ✅ **Drawdown:** 19.68% (below 50% limit)
 
